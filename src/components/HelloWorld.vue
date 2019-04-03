@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2 style="font-size: 16px">Essential Links</h2>
+    <h2 style="font-size: .16rem">Essential Links</h2>
   </div>
 </template>
 
@@ -27,7 +27,7 @@ ul {
 }
 li {
   display: inline-block;
-  margin: 0 10px;
+  margin: 0 .1rem;
 }
 a {
   color: #42b983;
